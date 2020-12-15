@@ -1,8 +1,14 @@
-## Martfury -Multipurpose Marketplace React Ecommerce Template
-###### Version 1.4.0
-More information, please visit:
-[Martfury React](https://themeforest.net/item/martfury-multipurpose-marketplace-react-ecommerce-template/25783100)
+## Contessa React v 1.4.0
 
-Copyright 2020. Nouthemes
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
 
 
